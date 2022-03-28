@@ -2,3 +2,4 @@ venv
 *.ipynb
 .ipynb*
 ffs.csv
+__pycache__
